@@ -10,6 +10,7 @@ https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.h
 4. Create a dialogflow project 
 5. Import the Auto-Google-Assistan.zip that you will find under the folder dialogflow, into dialogflow
 
+6. In the Fulfillment section of dialogflow enable the webhook with the url at the firebase functions of your project 
 
 
 
