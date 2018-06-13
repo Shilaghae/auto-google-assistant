@@ -5,7 +5,7 @@ Before starting with this example you need to:
 
 In order to do that you can look at the following link to have an idea of how to deploy functions for firebase
 
-https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.html?index=..%2F..%2Findex#0
+https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.html
 
 4. Create a dialogflow project 
 5. Import the Auto-Google-Assistan.zip that you will find under the folder dialogflow, into dialogflow
