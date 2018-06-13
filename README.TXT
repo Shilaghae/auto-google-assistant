@@ -1,7 +1,7 @@
 Before starting with this example you need to:
 1. Create a Firebase project
 2. Install the Firebase Command Line Interface
-3. Deploy the functions for firebase that you will find in this project under the  
+3. Deploy the functions for firebase that you will find in this project
 
 In order to do that you can look at the following link to have an idea of how to deploy functions for firebase
 
