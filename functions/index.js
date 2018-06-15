@@ -9,7 +9,7 @@ const {
     Permission,
 } = require('actions-on-google');
 
-const client = maps.createClient({key: 'AIzaSyDcB7WbcbSsMUjPtW3ug3IiL8DVxlX7hNM'});
+const client = maps.createClient({key: 'your key'});
     
 const requestPermission = (conv) => {
   conv.data.requestedPermission = conv.surface.capabilities.has('actions.capability.SCREEN_OUTPUT')
